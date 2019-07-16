@@ -1,3 +1,4 @@
+# coding=UTF-8
 import configparser
 
 class ReadIni(object):

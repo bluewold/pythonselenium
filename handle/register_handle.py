@@ -1,3 +1,4 @@
+# coding=UTF-8
 from page.register_page import RegisterPage
 class RegisterHandler(object):
     def __init__(self,driver):

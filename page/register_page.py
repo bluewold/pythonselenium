@@ -1,3 +1,4 @@
+# coding=UTF-8
 from base.find_element import findElement
 class RegisterPage(object):
     def __init__(self,driver):

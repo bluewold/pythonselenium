@@ -1,3 +1,4 @@
+# coding=UTF-8
 import xlrd
 from xlutils.copy import copy
 class ExcelUtil:

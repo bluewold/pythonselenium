@@ -1,3 +1,4 @@
+# coding=UTF-8
 from handle.register_handle import RegisterHandler
 class RegisterBusiness(object):
     def __init__(self,driver):

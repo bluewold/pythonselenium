@@ -1,3 +1,4 @@
+# coding=UTF-8
 from selenium import webdriver
 from base.find_element import findElement
 import time

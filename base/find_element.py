@@ -1,3 +1,4 @@
+# coding=UTF-8
 from util.read_ini import ReadIni
 
 class findElement(object):
