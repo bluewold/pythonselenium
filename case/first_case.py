@@ -1,3 +1,4 @@
+# coding=UTF-8
 from business.register_business import RegisterBusiness
 from selenium import webdriver
 import HTMLTestRunner

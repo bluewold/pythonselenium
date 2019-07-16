@@ -1,3 +1,4 @@
+# coding=UTF-8
 from base.excel_util import ExcelUtil
 from KeyWordMethod.ActionMethod import ActionMethod
 class keywordCase:

@@ -1,3 +1,4 @@
+# coding=UTF-8
 import unittest
 class FirstCase01(unittest.TestCase):
 
